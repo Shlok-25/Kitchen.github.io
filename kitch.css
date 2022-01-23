@@ -1,0 +1,166 @@
+body
+{  
+  background-image:url("https://infatuation.s3.amazonaws.com/media/images/guides/dark-chicago-restaurant-power-rankings/Bavettes_sandynoto_1.jpg");
+    height: 5px;
+background-position: center;
+ background-repeat: no-repeat;
+background-size: cover;
+
+}
+h1
+{
+color:white;
+text-align:center;
+}
+h3
+{
+color:white;
+text-align:center;
+}
+h2
+{
+color: white;
+text-align:center;
+font-style:italic;
+}
+
+
+#logo
+{
+  position: absolute;
+    right: 1%;
+    top: 6%;
+    display: block;
+    height: 100px;
+    width: 120px;
+margin:  0;
+}
+
+#logoo
+{
+  position: absolute;
+    right: 0;
+    bottom: 0;
+    display: block;
+    height: 430px;
+    width: 350px;
+margin:  0;
+}
+
+
+
+
+#box{
+text-align: justify;
+color: white;
+background-color: green;
+padding: 5px 10px 80px 5px;
+border:2px solid black;
+position: absolute;
+left: 0;
+top: 0;
+margin: 20px 10px 20px 10px;
+width: 170px;
+height: 30px;
+}
+
+
+#rrr{
+
+width:200px;
+height:200px;
+position: fixed; 
+top: 54%;
+left: 55%;
+margin-top: -140px;
+margin-left: -350px;
+color: yellow;
+}
+
+#ll{
+color: cyan;
+float: left;
+}
+
+#rrl{
+color: white;
+width:200px;
+height:200px;
+position: fixed; 
+top: 54%;
+left: 62%;
+margin-top: -140px;
+margin-left: -110px;
+}
+
+#boxxxx{
+color:white;
+text-align:justify;
+background-color: red;
+padding: 5px 5px 5px 5px;
+border:5px solid black;
+margin: 10px;
+width: 150px;
+height: 50px;
+position: absolute;
+left:1.5%;
+bottom:0;
+}
+
+
+#boxxxxxxx{
+color:white;
+text-align:justify;
+background-color: orange;
+padding: 5px 5px 5px 5px;
+border:5px solid black;
+margin: 10px;
+width: 150px;
+height: 50px;
+position: absolute;
+left:27.5%;
+bottom:0;
+}
+
+
+#boxxxxxxxyyyyyy{
+color:white;
+text-align:justify;
+background-color: grey;
+padding: 5px 5px 5px 5px;
+border:5px solid black;
+margin: 10px;
+width: 150px;
+height: 50px;
+position: absolute;
+left:54.5%;
+bottom:0;
+}
+
+
+
+a:hover, a:active{
+background-color: white;
+color:cyan;}
+
+@media(max-width: 768px)
+{
+body{
+height: auto;
+}
+
+
+h1
+{
+color:white;
+}
+h3
+{
+color:white;
+}
+h2
+{
+color: white;
+}
+
+}
